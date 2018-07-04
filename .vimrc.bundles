@@ -243,8 +243,8 @@
     " }
 
     " HTML {
-        if count(g:spf13_bundle_groups, 'html')
-            # Bundle 'amirh/HTML-AutoCloseTag' # ≤÷ø‚ ß–ß
+        if count(g:spf13_bundle_groups, 'html'zr
+            # Bundle 'amirh/HTML-AutoCloseTag' # expired plugin
             Bundle 'hail2u/vim-css3-syntax'
             Bundle 'gorodinskiy/vim-coloresque'
             Bundle 'tpope/vim-haml'
